@@ -117,7 +117,7 @@ const SingleImageDropzone = React.forwardRef<HTMLInputElement, InputProps>(
           return ERROR_MESSAGES.fileNotSupported();
         }
       }
-      return undefined;
+      return "";
     }, [fileRejections, dropzoneOptions]);
 
     return (
