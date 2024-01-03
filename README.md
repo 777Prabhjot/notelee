@@ -1,4 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Note taking website creating using following technologies
+1. Nextjs 14
+2. Typescript
+3. TailwindCSS
+4. Clerk
+5. Convex
+6. Shadcn
+7. Zustand
+
+ **Key Features:**
+- **Authentication:** Secure and seamless login experience with Clerk.
+- **Responsiveness:** A fully responsive design for an optimal user experience across all devices.
+- **Note Creation:** Users can create notes with the ability to add emojis, bullet points, and other rich writing features.
+- **Nested Notes:** Empowering users to create nested notes, edit them, and delete them effortlessly.
+- **Trash System:** Deleted notes are moved to the trash, allowing users to recover or permanently delete them as they wish.
+- **Image Upload:** Enhancing note creation by enabling users to add images to their notes.
+- **Search Functionality:** Simplifying user experience with a powerful search feature for quick access to notes.
+- **Publishing Notes:** Users can now make their notes publicly available by publishing them.
+
+**Video of the Webiste**
+
+
+https://github.com/777Prabhjot/notion-clone/assets/68184118/770799a2-9c1b-49bc-bfe2-8148dfb1b2e7
+
+
 
 ## Getting Started
 
